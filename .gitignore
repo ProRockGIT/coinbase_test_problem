@@ -1,0 +1,4 @@
+/venv/
+/test.db
+/coinbase_parser/test.db
+/skip_check.txt
